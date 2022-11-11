@@ -6,13 +6,5 @@ int removeDuplicates(int* nums, int numsSize){
             nums[++j] = nums[i];
         }
     }
-    for(i = 0; i < numsSize; i++){
-        printf(" %d", nums[i]);
-    }
-    printf("\n");
-    //nums[j] = nums[numsSize-1];
-    for(i = 0; i < numsSize; i++){
-        printf("%d ", nums[i]);
-    }
     return ++j;
 }
