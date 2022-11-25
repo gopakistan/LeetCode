@@ -1,2 +1,2 @@
 # LeetCode
-History of solutions for LeetCode questions
+History of solutions for LeetCode questions, powered by LeetHub
