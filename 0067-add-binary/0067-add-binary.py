@@ -27,7 +27,7 @@ class Solution(object):
             if tempsum > 1:
                 c = 1
                 tempsum -= 2
-                print("CARRY")
+                #print("CARRY")
             sum = str(tempsum) + sum
             #print('SUM:', sum)
         if c == 1:
